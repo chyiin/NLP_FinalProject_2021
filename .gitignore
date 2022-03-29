@@ -1,0 +1,14 @@
+
+QA/qa_model.pt
+QA/dicision.csv
+RISK/risk_model.pt
+RISK/dicision.csv
+data/Develop_qa_preprocess.csv
+data/Develop_risk_classification.csv
+data/Develop_risk_preprocess.csv
+data/Test_qa_preprocess.csv
+data/Test_risk_classification.csv
+data/Test_risk_preprocess.csv
+data/Train_qa_preprocess.csv
+data/Train_risk_classification_ans.csv
+data/Train_risk_preprocess.csv
